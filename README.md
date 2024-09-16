@@ -1,5 +1,13 @@
 # Raspberrypi,ステガノグラフィ,イーサリアムを用いてHello World
 
+## setup
+```
+git clone https://github.com/tyukei/GanbaruHackthon_2024.git
+python3 -m venv venv
+source venv/bin/activate
+python app.py
+```
+
 ![alt text](image.png)
 
 ![alt text](image-1.png)
