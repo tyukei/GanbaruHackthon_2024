@@ -7,6 +7,18 @@ python3 -m venv venv
 source venv/bin/activate
 python app.py
 ```
+<img width="753" alt="image" src="https://github.com/user-attachments/assets/b6e752e4-cadc-4070-bc39-120ce5328299">
+
+<img width="753" alt="image" src="https://github.com/user-attachments/assets/c64478ea-cdcb-4dad-af7e-cbdeaf276740">
+
+<img width="753" alt="image" src="https://github.com/user-attachments/assets/f93d9201-56e6-4993-9d72-00f529448c34">
+
+<img width="753" alt="image" src="https://github.com/user-attachments/assets/18d0d250-cd17-45ac-ac6e-1ce40be5e400">
+
+<img width="753" alt="image" src="https://github.com/user-attachments/assets/a10bea5f-60a5-4eab-8178-6b757fc0e757">
+
+<img width="753" alt="image" src="https://github.com/user-attachments/assets/1e95dc61-2384-4027-bbe6-1b1a7d5971f9">
+
 
 ![alt text](image.png)
 
