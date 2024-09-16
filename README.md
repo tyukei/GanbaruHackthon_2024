@@ -48,7 +48,8 @@ python app.py
 
 ![alt text](image-13.png)
 
-![alt text](image-14.png)
+<img width="729" alt="image" src="https://github.com/user-attachments/assets/7aeea9e2-86e4-472d-9b3d-336231d55163">
+
 
 
 
